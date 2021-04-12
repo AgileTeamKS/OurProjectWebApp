@@ -8,6 +8,6 @@ export class DataConstantsService {
 //IIS
 //readonly BASEAPIURL:string ='http://localhost:7459/API/';
 //local .net instance
-readonly BASEAPIURL:string ='https://localhost:44372/API/';
+readonly BASEAPIURL:string ='http://103.228.144.82/ClientData2021Api/API/';
   constructor() { }
 }
